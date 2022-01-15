@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ContinuosPing": {
+      "commandName": "Project",
+      "commandLineArgs": "--hostname 8.8.8.8 --path ping.txt --interval 1"
+    }
+  }
+}
